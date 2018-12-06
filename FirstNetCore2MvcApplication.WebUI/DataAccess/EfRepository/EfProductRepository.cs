@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using FirstNetCore2MvcApplication.WebUI.Entity;
+using Microsoft.EntityFrameworkCore;
 
 namespace FirstNetCore2MvcApplication.WebUI.DataAccess.EfRepository
 {
@@ -15,7 +16,10 @@ namespace FirstNetCore2MvcApplication.WebUI.DataAccess.EfRepository
             _context = context;
         }
 
-        public IQueryable<Product> GetAll() => _context.Products;
+        public IQueryable<Product> GetAll()
+        {
+            return _context.Products.Include(c=>c.Brand);
+        }
 
         public void Add(Product product)
         {

@@ -30,5 +30,7 @@ namespace FirstNetCore2MvcApplication.WebUI.Entity
         [Display(Name = "Marka")]
         public int BrandId { get; set; }
 
+        public Brand Brand { get; set; }
+
     }
 }

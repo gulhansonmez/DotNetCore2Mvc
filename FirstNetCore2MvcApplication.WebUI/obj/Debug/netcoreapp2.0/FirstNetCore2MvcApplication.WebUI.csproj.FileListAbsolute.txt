@@ -9,3 +9,14 @@ D:\BilgeAdam\Gorev1\FirstNetCore2MvcApplication\FirstNetCore2MvcApplication.WebU
 D:\BilgeAdam\Gorev1\FirstNetCore2MvcApplication\FirstNetCore2MvcApplication.WebUI\bin\Debug\netcoreapp2.0\FirstNetCore2MvcApplication.WebUI.pdb
 D:\BilgeAdam\Gorev1\FirstNetCore2MvcApplication\FirstNetCore2MvcApplication.WebUI\obj\Debug\netcoreapp2.0\FirstNetCore2MvcApplication.WebUI.dll
 D:\BilgeAdam\Gorev1\FirstNetCore2MvcApplication\FirstNetCore2MvcApplication.WebUI\obj\Debug\netcoreapp2.0\FirstNetCore2MvcApplication.WebUI.pdb
+C:\Users\Gulhan\Source\Repos\DotNetCore2Mvc\FirstNetCore2MvcApplication.WebUI\bin\Debug\netcoreapp2.0\FirstNetCore2MvcApplication.WebUI.deps.json
+C:\Users\Gulhan\Source\Repos\DotNetCore2Mvc\FirstNetCore2MvcApplication.WebUI\bin\Debug\netcoreapp2.0\FirstNetCore2MvcApplication.WebUI.runtimeconfig.json
+C:\Users\Gulhan\Source\Repos\DotNetCore2Mvc\FirstNetCore2MvcApplication.WebUI\bin\Debug\netcoreapp2.0\FirstNetCore2MvcApplication.WebUI.runtimeconfig.dev.json
+C:\Users\Gulhan\Source\Repos\DotNetCore2Mvc\FirstNetCore2MvcApplication.WebUI\bin\Debug\netcoreapp2.0\FirstNetCore2MvcApplication.WebUI.dll
+C:\Users\Gulhan\Source\Repos\DotNetCore2Mvc\FirstNetCore2MvcApplication.WebUI\bin\Debug\netcoreapp2.0\FirstNetCore2MvcApplication.WebUI.pdb
+C:\Users\Gulhan\Source\Repos\DotNetCore2Mvc\FirstNetCore2MvcApplication.WebUI\obj\Debug\netcoreapp2.0\FirstNetCore2MvcApplication.WebUI.csprojAssemblyReference.cache
+C:\Users\Gulhan\Source\Repos\DotNetCore2Mvc\FirstNetCore2MvcApplication.WebUI\obj\Debug\netcoreapp2.0\FirstNetCore2MvcApplication.WebUI.csproj.CoreCompileInputs.cache
+C:\Users\Gulhan\Source\Repos\DotNetCore2Mvc\FirstNetCore2MvcApplication.WebUI\obj\Debug\netcoreapp2.0\FirstNetCore2MvcApplication.WebUI.AssemblyInfoInputs.cache
+C:\Users\Gulhan\Source\Repos\DotNetCore2Mvc\FirstNetCore2MvcApplication.WebUI\obj\Debug\netcoreapp2.0\FirstNetCore2MvcApplication.WebUI.AssemblyInfo.cs
+C:\Users\Gulhan\Source\Repos\DotNetCore2Mvc\FirstNetCore2MvcApplication.WebUI\obj\Debug\netcoreapp2.0\FirstNetCore2MvcApplication.WebUI.dll
+C:\Users\Gulhan\Source\Repos\DotNetCore2Mvc\FirstNetCore2MvcApplication.WebUI\obj\Debug\netcoreapp2.0\FirstNetCore2MvcApplication.WebUI.pdb

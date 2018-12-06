@@ -51,7 +51,17 @@ namespace FirstNetCore2MvcApplication.WebUI.Migrations
 
                     b.HasKey("Id");
 
+                    b.HasIndex("BrandId");
+
                     b.ToTable("Products");
+                });
+
+            modelBuilder.Entity("FirstNetCore2MvcApplication.WebUI.Entity.Product", b =>
+                {
+                    b.HasOne("FirstNetCore2MvcApplication.WebUI.Entity.Brand", "Brand")
+                        .WithMany("Products")
+                        .HasForeignKey("BrandId")
+                        .OnDelete(DeleteBehavior.Cascade);
                 });
 #pragma warning restore 612, 618
         }
