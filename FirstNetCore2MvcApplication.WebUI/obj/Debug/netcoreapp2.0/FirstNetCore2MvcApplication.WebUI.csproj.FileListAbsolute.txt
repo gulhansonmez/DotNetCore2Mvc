@@ -1,0 +1,11 @@
+D:\BilgeAdam\Gorev1\FirstNetCore2MvcApplication\FirstNetCore2MvcApplication.WebUI\bin\Debug\netcoreapp2.0\FirstNetCore2MvcApplication.WebUI.deps.json
+D:\BilgeAdam\Gorev1\FirstNetCore2MvcApplication\FirstNetCore2MvcApplication.WebUI\bin\Debug\netcoreapp2.0\FirstNetCore2MvcApplication.WebUI.runtimeconfig.json
+D:\BilgeAdam\Gorev1\FirstNetCore2MvcApplication\FirstNetCore2MvcApplication.WebUI\bin\Debug\netcoreapp2.0\FirstNetCore2MvcApplication.WebUI.runtimeconfig.dev.json
+D:\BilgeAdam\Gorev1\FirstNetCore2MvcApplication\FirstNetCore2MvcApplication.WebUI\bin\Debug\netcoreapp2.0\FirstNetCore2MvcApplication.WebUI.dll
+D:\BilgeAdam\Gorev1\FirstNetCore2MvcApplication\FirstNetCore2MvcApplication.WebUI\obj\Debug\netcoreapp2.0\FirstNetCore2MvcApplication.WebUI.csprojAssemblyReference.cache
+D:\BilgeAdam\Gorev1\FirstNetCore2MvcApplication\FirstNetCore2MvcApplication.WebUI\obj\Debug\netcoreapp2.0\FirstNetCore2MvcApplication.WebUI.csproj.CoreCompileInputs.cache
+D:\BilgeAdam\Gorev1\FirstNetCore2MvcApplication\FirstNetCore2MvcApplication.WebUI\obj\Debug\netcoreapp2.0\FirstNetCore2MvcApplication.WebUI.AssemblyInfoInputs.cache
+D:\BilgeAdam\Gorev1\FirstNetCore2MvcApplication\FirstNetCore2MvcApplication.WebUI\obj\Debug\netcoreapp2.0\FirstNetCore2MvcApplication.WebUI.AssemblyInfo.cs
+D:\BilgeAdam\Gorev1\FirstNetCore2MvcApplication\FirstNetCore2MvcApplication.WebUI\bin\Debug\netcoreapp2.0\FirstNetCore2MvcApplication.WebUI.pdb
+D:\BilgeAdam\Gorev1\FirstNetCore2MvcApplication\FirstNetCore2MvcApplication.WebUI\obj\Debug\netcoreapp2.0\FirstNetCore2MvcApplication.WebUI.dll
+D:\BilgeAdam\Gorev1\FirstNetCore2MvcApplication\FirstNetCore2MvcApplication.WebUI\obj\Debug\netcoreapp2.0\FirstNetCore2MvcApplication.WebUI.pdb
